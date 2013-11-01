@@ -3,7 +3,7 @@
 A framework for easily creating beautiful presentations using HTML. [Check out the live demo](http://lab.hakim.se/reveal-js/).
 
 
-This plugin should create some CPT's and a page template to show off the slides
+This plugin (I think this might be better as a theme) should create some CPT's and a page template to show off the slides
 on the front end.  Will probably need to add ACF here.
 
 
